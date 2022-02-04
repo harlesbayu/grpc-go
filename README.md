@@ -1,7 +1,5 @@
 # grpc-go
 
-example grpc:
-
 1. unary
 2. server streaming
 3. client streaming
